@@ -2,3 +2,4 @@ pypdf>=6.12
 reportlab>=4.5
 Pillow>=12.2
 pypdfium2>=5.11
+pytest>=8.0  # tests only
